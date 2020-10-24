@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920709825785",
+    "firebase_url": "https://savemybill-9edd7.firebaseio.com",
+    "project_id": "savemybill-9edd7",
+    "storage_bucket": "savemybill-9edd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920709825785:android:04233ba77a951a37954e28",
+        "android_client_info": {
+          "package_name": "com.example.savemybill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920709825785-na1j3o7vblmj46eb7jb6fl5qhvnk7v43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savemybill",
+            "certificate_hash": "26e41cf672d42b49100c7aa5a4ff9b11f5910143"
+          }
+        },
+        {
+          "client_id": "920709825785-d2opve57d6bdumgjbgt1ndbpfmqhi2r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpNI-0C0iDkqDPJ0CCXRfL79QSeIpSRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920709825785-d2opve57d6bdumgjbgt1ndbpfmqhi2r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
